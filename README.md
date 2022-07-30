@@ -55,4 +55,4 @@ Here, you can also see the share percentage and amount share by market.
   <img src="https://github.com/ayush-206/Data-analysis-projects/blob/main/top_customer.PNG" alt="customers" title="customers">
 </p>
 
-                                                                  Thank You 
+Thank You 
